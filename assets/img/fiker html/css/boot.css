@@ -1,0 +1,392 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header h1{
+    background-color:rgb(0, 0, 0);
+    color:white;
+}
+header nav{
+    display: none;
+}
+.container1 .div1 p{
+    display: inline;
+    color: white;
+}
+.container1 .div2 p{
+    color: white;
+}
+.container1 .div1{
+    margin-top: 230px;
+}
+.container1 h1{
+    color: aliceblue;
+}
+.container1{
+    width:auto;
+    height: 600px;
+    background-image: url(images.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.container3{
+    width:auto;
+    height: 700px;
+    background-image:url(iphone_16_pro__cihyrkjs7xg2_small_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0;
+}
+.container3 .div3{
+    color: aliceblue;
+}
+.container3 .div4{
+    color:rgb(0, 55, 255);
+}
+.container4 .div5{
+    color:black ;
+    }
+.container4 h1{
+    color:black ;
+}
+.container4 .div6{
+    color:rgb(0, 55, 255);
+    }
+    .container5{
+        width:auto;
+        height: 800px;
+        background-image:url(iphone_16__fmj9485qehiu_small_2x.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: 50px;
+}
+.container5and6{
+    background-color: aliceblue;
+}
+.container6 .div9{
+    color:rgb(0, 55, 255);
+}
+.container7{
+    width:auto;
+        height:600px;
+        background-image:url(watch_series_10__58pw6t889mq2_small_2x.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+.container8{
+    color: aliceblue;
+            width:auto; 
+            height: 1200px;
+            background-image:url(watch_ultra_2__d3s4un2rteye_small_2x.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            margin-top: 50px;
+            }
+.container8 .div11{
+    color:rgb(0, 55, 255); ;
+}
+.container9 .div13{
+    color:rgb(0, 55, 255); ;
+}
+.container10{
+    width:auto; 
+    height: 700px;
+    background-image:url(airpods_4__d7b7bx7vw2oi_small_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 100px;
+}
+.container9{
+    margin-top: 50px;
+}
+.container11{
+    color: aliceblue;
+    width:auto; 
+    height: 900px;
+    background-image:url(airpods_pro_2__8dm57n2o2ky6_small_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+.container11 .div15{
+    color:rgb(0, 55, 255); ;
+}
+.container11 .div14{
+   padding-top: 40px;
+}
+.container12 .div16{
+    color:rgb(0, 55, 255); ;
+}
+.container13{
+    width:auto; 
+    height: 1000px;
+    background-image:url(airpods_max__fm3l6roj2oqe_small_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container12{
+    margin-top: 50px;
+}
+.div17{
+    color:rgb(0, 55, 255); ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+footer .div19{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+@media screen and (min-width:580px) {
+    .container2 h2{
+     font-size: 50px;
+    }
+ .div3{
+     color:white;
+     padding-left: 650px;
+     padding-top: 80px;
+     position: absolute;
+     font-size: 20px;
+ }
+ .div3 h2{
+    font-weight: bold;
+    }
+ .div4{
+     color:rgb(0, 55, 255); ;
+     padding-left: 780px;
+     padding-top: 380px;
+     position: absolute;
+     font-size: 20px;
+ }
+ .container3{
+    background-color: rgb(23, 21, 21);
+     margin-left: 100px;
+     margin-right: 100px;
+     width:auto;
+     height: 500px;
+     background-image:url(https://www.apple.com/v/apple-events/home/ag/images/overview/announced/iphone_16_pro__cihyrkjs7xg2_large_2x.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     margin-bottom: 50px;
+     border-radius: 30px;
+ }
+ .container4{
+     margin-left: 100px;
+     margin-right: 100px;
+     width:500px;
+     height: 500px;
+     background-image:url(https://www.apple.com/v/apple-events/home/ag/images/overview/announced/iphone_16__fmj9485qehiu_large_2x.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     margin-bottom: 50px;
+     border-radius: 30px;
+ }
+ .div5{
+     color:white;
+     padding-left: 680px;
+     padding-top: 80px;
+     position: absolute;
+     font-size: 20px;
+ }
+ .div5 h2{
+    font-weight: bold;
+    }
+ .div6{
+     color:rgb(0, 55, 255); ;
+     padding-left: 780px;
+     padding-top: 350px;
+     position: absolute;
+     font-size: 20px;
+ }
+ .container5{
+    display: none;
+ }
+ .container6{
+    margin-left: 100px;
+    margin-right: 100px;
+    width:500px;
+    height: 500px;
+    background-image:url(https://www.apple.com/v/apple-events/home/ag/images/overview/announced/watch_series_10__58pw6t889mq2_large_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    border-radius: 30px;
+}
+.div8{
+    color:black;
+    padding-left: 700px;
+    padding-top: 80px;
+    position: absolute;
+    font-size: 20px;
+}
+.div8 h2{
+font-weight: bold;
+}
+.div9{
+    color:rgb(0, 55, 255); ;
+    padding-left: 780px;
+    padding-top: 380px;
+    position: absolute;
+    font-size: 20px;
+}
+.container7{
+    display:none ;
+}
+.div10{
+    color:white;
+    padding-left: 670px;
+    padding-top: 80px;
+    position: absolute;
+    font-size: 20px;
+}
+.div10 h2{
+   font-weight: bold;
+   }
+.div11{
+    color:rgb(0, 55, 255); ;
+    padding-left: 800px;
+    padding-top: 380px;
+    position: absolute;
+    font-size: 20px;
+}
+.container8{
+   background-color: rgb(23, 21, 21);
+    margin-left: 100px;
+    margin-right: 100px;
+    width:auto;
+    height: 500px;
+    background-image:url(https://www.apple.com/v/apple-events/home/ag/images/overview/announced/watch_ultra_2__d3s4un2rteye_large_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    border-radius: 30px;
+}
+.div12{
+    color:black;
+    padding-left: 800px;
+    padding-top: 80px;
+    position: absolute;
+    font-size: 20px;
+}
+.div12 h2{
+   font-weight: bold;
+   }
+.div13{
+    color:rgb(0, 55, 255); ;
+    padding-left: 850px;
+    padding-top: 300px;
+    position: absolute;
+    font-size: 20px;
+}
+.container9{
+    margin-left: 100px;
+    margin-right: 200px;
+    width:auto;
+    height: 500px;
+    background-image:url(https://www.apple.com/v/apple-events/home/ag/images/overview/announced/airpods_4__d7b7bx7vw2oi_large_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    border-radius: 30px;
+}
+.container10{
+    display: none;
+}
+.container11{
+    margin-left: 100px;
+    margin-right: 100px;
+    width:auto;
+    height: 500px;
+    background-image: url(https://www.apple.com/v/apple-events/home/ag/images/overview/announced/airpods_pro_2__8dm57n2o2ky6_large_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    }
+.div14{
+    color:white;
+    padding-left: 700px;
+    padding-top: 400px;
+    position: absolute;
+    font-size: 20px;
+}
+.div14 h2{
+   font-weight: bold;
+   }
+.div15{
+    color:rgb(0, 55, 255); ;
+    padding-left: 750px;
+    padding-top: 250px;
+    position: absolute;
+    font-size: 20px;
+}
+.container12{
+    margin-left: 100px;
+    margin-right: 100px;
+    width:auto;
+    height: 500px;
+    background-image: url(https://www.apple.com/v/apple-events/home/ag/images/overview/announced/airpods_max__fm3l6roj2oqe_large_2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    }
+.div20{
+    color:black;
+    padding-left: 750px;
+    padding-top: 200px;
+    position: absolute;
+    font-size: 20px;
+}
+.di20 h2{
+   font-weight: bold;
+   }
+.div16{
+    color:rgb(0, 55, 255); ;
+    padding-left: 800px;
+    padding-top: 370px;
+    position: absolute;
+    font-size: 20px;
+}
+.container13{
+    display: none;
+}
+.div17{
+    color: black;
+    font-weight: bold;
+font-size: 50px;
+}
+header nav{
+    display: block;
+    display: flex;
+    padding-left: 140px;
+    background-color: black;
+    color: aliceblue;
+    font-size:14px;
+    padding-top: 7px;
+}
+header h1{
+    padding-left: 100px;
+    font-size: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+header li{
+    padding-left: 30px;
+    list-style: none;
+}
+.container1{
+    margin: 0;
+    background-size: cover;
+}
+    }
+
+ 
+ 
