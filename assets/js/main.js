@@ -5,7 +5,6 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
 (function() {
   "use strict";
 
@@ -227,3 +226,71 @@
   document.addEventListener('scroll', navmenuScrollspy);
 
 })();
+$(".sun").css({
+  "padding-left":"200px",
+  "font-size":"30px",
+   })
+   $(".moon").css({
+    "padding-left":"200px",
+    "font-size":"30px",
+    "display":"none"
+     })
+     $(".sun").on("click",function(){
+      $(".sun").css({
+ "display":"none"
+      })
+      $(".moon").css({
+        "display":"block"
+             })
+             $(".whitemode").css({
+              "background-color":"black",
+              "color":"aliceblue"
+                   
+    })
+    $(".testi").css({
+      "color":"black"        
+})
+$(".navblue").css({
+  "background-color":"navy" 
+})
+$(".navblack").css({
+  "background-color":"black" 
+})
+$(".bl").css({
+  "color":"gold"        
+})
+})
+  $(".moon").on("click",function(){
+    $(".moon").css({
+    "display":"none"
+    })
+    $(".sun").css({
+      "display":"block"
+      })
+      $(".whitemode").css(
+        {
+          "background-color":"",
+          "color":""
+        }
+      )
+      $(".testi").css({
+        "color":""        
+  })
+  $(".navblue").css(
+    {
+      "background-color":"",
+    }
+  )
+  $(".navblack").css(
+    {
+      "background-color":"",
+    }
+  )
+  $(".bl").css({
+    "color":"",      
+      })
+      })
+
+
+    
+
